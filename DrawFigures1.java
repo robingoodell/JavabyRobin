@@ -21,8 +21,8 @@ public class DrawFigures1 {
         System.out.println("|      |");
         System.out.println("|      |");
         System.out.println("+------+");
-        System.out.println("|United|");
-        System.out.println("|States|");
+        System.out.println("| TECH |");
+        System.out.println("| HIGH |");
         System.out.println("+------+");
         System.out.println("|      |");
         System.out.println("|      |");
